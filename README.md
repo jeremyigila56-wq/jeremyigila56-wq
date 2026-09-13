@@ -65,4 +65,4 @@ Self-taught full-stack developer, focused on AI systems, automation, and shippin
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/simongonzalezdc">simongonzalezdc</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/jeremyigila56-wq">jeremyigila56-wq</a></i></p>
